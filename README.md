@@ -1,6 +1,6 @@
 # java robot
 
-This program makes it possible to go through a list of websites and update the status if the websites haven't been checked for a certain period of time
+This program makes it possible to go through a list of websites and update the status if the websites that haven't been checked for a since a certain date
 
 In order to run this program you need to:
 - download two .java files that are located in this folder
